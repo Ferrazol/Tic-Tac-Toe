@@ -1,0 +1,21 @@
+body{
+    background-color: pink;
+}
+.container{
+    height: 50%;
+  width: 70%;
+  background: #EEE;
+  margin: 10px auto;
+  position: relative;
+  text-align: center
+
+}
+.box{
+    
+    display:inline-block;
+    border: 2px solid rgb(3, 3, 3);
+    height: 100px;
+    width: 30%;
+    vertical-align:top;
+    margin: 2px;
+}
