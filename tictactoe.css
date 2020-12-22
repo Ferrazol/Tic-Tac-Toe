@@ -13,9 +13,16 @@ body{
 .box{
     
     display:inline-block;
-    border: 2px solid rgb(3, 3, 3);
+    border: 2px dashed #f69c55;
     height: 100px;
     width: 30%;
     vertical-align:top;
     margin: 2px;
+    text-align: center;
+    font-size: 50px;
+    line-height: 100px;
+}
+.botao{
+    height: 50px;
+    margin-left: 45%;
 }
